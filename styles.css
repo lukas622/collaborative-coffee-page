@@ -10,3 +10,14 @@ footer {
     padding: 2rem;
     border: 4px, solid, grey;
 }
+
+.header-ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+.header-li1 {
+    display: inline;
+}
+
